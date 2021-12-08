@@ -1,0 +1,16 @@
+.button_block{
+    width: 100%;
+    display: flex;
+}
+
+
+.back_button{
+    width: 100%;
+    display: flex;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    height: 3em;
+    align-items: center;
+    justify-content: center;
+}
